@@ -1,0 +1,28 @@
+*{margin: 0px;padding: 2px;
+    font-family: 'Rubik Distressed', cursive;
+    letter-spacing: 5px;
+}
+
+
+body{
+    width: 100vw;
+    height: 100vh;
+  
+}
+
+.tot-price{
+    color:white;
+    background-color:aquamarine;
+}
+
+/* #tot-price{
+    background-color: rgb(13, 255, 0);
+    color:rgb(0, 0, 0);
+    width: 50%;
+    border-radius: 25px;
+    height: 100px;
+display: flex;
+align-items:center;
+justify-content: center;} */
+
+
